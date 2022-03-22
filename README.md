@@ -12,7 +12,7 @@
 
 This repository contains the source code of the Self-Sovereign Identity for Web Portal API.
 
-The SSI Web Portal API are for interact with another service and communicate with Frontend and mobile application. The Web Portal API required another services to run which provided in <a href = "##Prerequisites">Prerequisites</a>.
+The SSI Web Portal API are for interact with another service and communicate with Frontend and mobile application. The Web Portal API required another services to run which provided in <a href = "#Prerequisites">Prerequisites</a>.
 
 ## Development
 
